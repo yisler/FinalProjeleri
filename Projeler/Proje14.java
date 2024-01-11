@@ -15,7 +15,7 @@ public class Proje14 {
         System.out.print("Farkı öğrenmek istediğiniz ikinci tarihi (GG/AA/YYYY) şeklinde giriniz: ");
         String tarih2Str = scanner.nextLine();
 
-        SimpleDateFormat dateFormat = new SimpleDateFormat("Proje 19/MM/yyyy");
+        SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy");
         try {
             Date tarih1 = dateFormat.parse(tarih1Str);
             Date tarih2 = dateFormat.parse(tarih2Str);
