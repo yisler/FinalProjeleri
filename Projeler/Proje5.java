@@ -1,3 +1,5 @@
+// Proje 5 : Basamak Ayırıcı
+
 import java.util.Scanner;
 public class Proje5 {
 

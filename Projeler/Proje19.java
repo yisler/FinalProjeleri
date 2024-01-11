@@ -1,3 +1,5 @@
+// Proje 19 : Pazaryeri Sınıfı
+
 public class Proje19 {
     public static class Pazaryeri {
 

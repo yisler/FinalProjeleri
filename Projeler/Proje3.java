@@ -1,3 +1,5 @@
+// Proje 3 : Basit Hesap Makinesi
+
 import java.util.Scanner;
 public class Proje3 {
 

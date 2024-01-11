@@ -1,6 +1,7 @@
+// Proje 6 : En Büyük Sayı ve Sırasını Bulma
+
 import java.util.Scanner;
 public class Proje6 {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] sayilar = new int[10];

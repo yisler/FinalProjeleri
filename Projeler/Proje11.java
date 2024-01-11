@@ -1,3 +1,5 @@
+// Proje 11 : Taş, Kağıt, Makas Oyunu
+
 import java.util.Random;
 import java.util.Scanner;
 public class Proje11 {

@@ -1,3 +1,5 @@
+// Proje 13 : Üçgen Problemi
+
 import java.util.Scanner;
 public class Proje13 {
     public static void main(String[] args) {

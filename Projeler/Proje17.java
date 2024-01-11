@@ -1,3 +1,5 @@
+// Proje 17 : Sesli / Sessiz Harfler
+
 import java.util.Scanner;
 public class Proje17 {
     public static void main(String[] args) {
